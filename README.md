@@ -46,4 +46,4 @@ ___
 
 ### 🎧 Spotify playing
   
-  [![Spotify](https://tlachino-m-fj.vercel.app/api/spotify)]()
+  [![Spotify](https://github.com/Tlachino-M-FJ/spotify-now-playing.vercel.app/api/spotify)]()
