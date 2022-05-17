@@ -10,14 +10,6 @@
   <img src="https://www.wolfram.com/language/img/overview/header-logo.png"  width="50" alt= "Wolfram Language">
 </p>
 
-<h4>Tools & Technologies</h4>
-<p>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
-</p>
-
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tlachino-M-FJ&theme=radical&card_width=450em)](https://github.com/Tlachino-M-FJ/Tlachino-M-FJ/github-readme-stats"/></td>
