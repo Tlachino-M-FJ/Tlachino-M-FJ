@@ -1,6 +1,8 @@
 # *Hi! I'm Felipe de Jesús* 👋
 
-*Physics-mathematics teacher*
+* 👨‍🏫 *Physics-mathematics teacher*
+* 👨‍🔬 *Theoretical physics*
+
 ## Badges
 
 ### <h4>Programming Languages</h4>
@@ -9,7 +11,6 @@
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://www.wolfram.com/language/img/overview/header-logo.png"  width="50" alt= "Wolfram Language">
 </p>
-
 
 ### Github Stats
 (Thank you <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">Anuraghazra</a>)
