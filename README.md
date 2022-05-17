@@ -5,13 +5,9 @@
 
 <h4>Programming Languages</h4>
 <p>
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-</p>
-
-<h3>
-</h3> 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://www.wolfram.com/language/img/overview/header-logo.png"  width="50">
 </p>
 
 <h4>Tools & Technologies</h4>
@@ -21,9 +17,6 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
 </p>
-
-### Github Stats
-(Thank you <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">Anuraghazra</a>)
 
 <table>
   <tr>
