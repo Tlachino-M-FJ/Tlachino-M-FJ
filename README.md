@@ -7,7 +7,7 @@
 <p>
   <img src="https://jupyter.org/assets/homepage/main-logo.svg">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://www.wolfram.com/language/img/overview/header-logo.png"  width="50">
+  <img src="https://www.wolfram.com/language/img/overview/header-logo.png"  width="50" alt= "Wolfram Language">
 </p>
 
 <h4>Tools & Technologies</h4>
