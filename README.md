@@ -1,6 +1,6 @@
 # *Hi! I'm Felipe de Jesús* 👋
 
-* 👨‍🏫 *Physics-mathematics teacher*
+* 👨‍🏫 *Physics-mathematics professor*
 * 👨‍🔬 *Theoretical physics*
 ___
 ## Badges
