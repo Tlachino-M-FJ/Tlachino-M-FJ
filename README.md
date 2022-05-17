@@ -11,6 +11,7 @@ ___
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://www.wolfram.com/language/img/overview/header-logo.png"  width="50" alt= "Wolfram Language">
   <img src="https://www.wolfram.com/common/framework/img/spikey.es.png"  width="50" alt= "Wolfram">
+  <img src="https://www.latex-project.org/img/latex-project-logo.svg"  width="130" alt= "LaTeX">
 </p>
 
 <!--
