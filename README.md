@@ -41,7 +41,5 @@
 </p>
 -->
 
-### 🎧 Music | Spotify Playing
-[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="350" />]()
 
 ### 🧠 <i> Keep an open mind, but not so open that your brain falls out. 😕
