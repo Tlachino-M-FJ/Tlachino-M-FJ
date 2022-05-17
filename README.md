@@ -46,4 +46,4 @@ ___
 
 ### 🎧 Spotify playing
   
-  [<img src="https://github.com/Tlachino-M-FJ/spotify-now-playing/blob/master/api/spotify.py" width="350" />]()
+  [![Spotify](https://tlachino-m-fj.vercel.app/api/spotify)](https://open.spotify.com/user/tlachino-m-fj)
