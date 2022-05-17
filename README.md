@@ -47,3 +47,7 @@ ___
 ### 🎧 Spotify playing
   
   [![Spotify](https://github.com/Tlachino-M-FJ/spotify-now-playing.vercel.app/api/spotify)]()
+  [<img src="https://vercel.com/tlachino-m-fj/spotify-now-playing/BLHQMCyH8KeyXN7zdbwJiKho3TYA"  width="350" alt= "naviscode spotify playing">][]
+  
+  
+  
