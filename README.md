@@ -44,10 +44,6 @@ ___
 
 ### 🧠 <i> Keep an open mind, but not so open that your brain falls out. 😕
 
-### 🎧 Spotify playing
-  
-  [![Spotify](https://github.com/Tlachino-M-FJ/spotify-now-playing.vercel.app/api/spotify)]()
-  [<img src="https://vercel.com/tlachino-m-fj/spotify-now-playing/BLHQMCyH8KeyXN7zdbwJiKho3TYA"  width="350" alt= "naviscode spotify playing">][]
-  
-  
+### 🎧 Music | Spotify Playing
+[<img src="https://spotify-now-playing-kskhzlerr-tlachino-m-fj.vercel.app/api/spotify.py" alt="spotify playing" width="350" />]()
   
