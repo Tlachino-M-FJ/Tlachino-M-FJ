@@ -12,16 +12,6 @@ ___
   <img src="https://www.wolfram.com/language/img/overview/header-logo.png"  width="50" alt= "Wolfram Language">
 </p>
 
-### Github Stats
-(Thank you <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">Anuraghazra</a>)
-
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tlachino-M-FJ&theme=tokyonight&card_width=450em)](https://github.com/Tlachino-M-FJ/Tlachino-M-FJ/github-readme-stats"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tlachino-M-FJ&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight&hide_stars=false" /></td>
-  </tr>
-</table>
-
 <!--
 ### Iconos & badgets sociales
 
