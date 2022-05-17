@@ -42,5 +42,8 @@ ___
 -->
 ___
 
-
 ### 🧠 <i> Keep an open mind, but not so open that your brain falls out. 😕
+
+### 🎧 Spotify playing
+  
+  [<img src="https://spotify-now-playing-o47sseovj-tlachino-m-fj.vercel.app" alt="naviscode spotify playing" width="350" />]()
