@@ -2,7 +2,7 @@
 
 * 👨‍🏫 *Physics-mathematics teacher*
 * 👨‍🔬 *Theoretical physics*
-
+___
 ## Badges
 
 ### <h4>Programming Languages</h4>
@@ -40,6 +40,7 @@
   </a>
 </p>
 -->
+___
 
 
 ### 🧠 <i> Keep an open mind, but not so open that your brain falls out. 😕
