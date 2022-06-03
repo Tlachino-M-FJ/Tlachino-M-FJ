@@ -7,11 +7,11 @@ ___
 
 ### <h4>Programming Languages</h4>
 <p>
-  <img src="https://jupyter.org/assets/homepage/main-logo.svg">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://www.wolfram.com/language/img/overview/header-logo.png"  width="50" alt= "Wolfram Language">
-  <img src="https://www.wolfram.com/common/framework/img/spikey.es.png"  width="50" alt= "Wolfram">
-  <img src="https://www.latex-project.org/img/latex-project-logo.svg"  width="130" alt= "LaTeX">
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="50" alt= "Jupyter">
+  <img src="https://www.python.org/static/img/python-logo@2x.png" width="170" alt= "Python">
+  <img src="https://www.wolfram.com/language/img/overview/header-logo.png" width="50" alt= "Wolfram Language">
+  <img src="https://www.wolfram.com/common/framework/img/spikey.es.png" width="50" alt= "Wolfram">
+  <img src="https://www.latex-project.org/img/latex-project-logo.svg" width="120" alt= "LaTeX">
 </p>
 
 <!--
