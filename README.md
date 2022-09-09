@@ -34,7 +34,7 @@ ___
 -->
 ___
 
-### 🧠 <i> Keep an open mind, but not so open that your brain falls out. 😕
+### 🧠 <i> Keep an open mind, but not so open that your brain falls out.
 
 ### 🎧 Music | Spotify Playing
 [<img src="https://spotify-now-playing-kskhzlerr-tlachino-m-fj.vercel.app/api/spotify.py" alt="spotify playing" width="350" />]()
